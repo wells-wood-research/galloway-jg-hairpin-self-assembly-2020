@@ -11,7 +11,7 @@ _More details soon._
 # Running the Scripts
 
 The code is provided in two Jupyter Notebooks which perform the analysis and create
-plots for the 1hr and 24hr data. To recreate this analysis you can setup exact same
+plots for the 1hr and 24hr data. To recreate this analysis you can setup the exact same
 Python environment used to perform this analysis using the `conda_environment.yml` file
 and the [Anaconda Python distribution](https://www.anaconda.com/products/individual).
 For details of how to do that, see [this guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
